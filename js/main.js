@@ -10,6 +10,4 @@
       ]
     }
    })
-
-  //two way data binding(to UI)
 })();
